@@ -1,6 +1,0 @@
-if SHIELD_CORNETEST
-
-config ZMK_KEYBOARD_NAME
-    default "cornetest"
-
-endif
