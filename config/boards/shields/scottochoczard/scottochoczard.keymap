@@ -11,10 +11,10 @@
         windows_default_layer {
             display-name = "Windows";
             bindings = <
-                &kp Q             &kp W &kp F     &kp P    &kp G           &kp J        &kp L            &kp U     &kp Y   &kp BSPC       
-                &kp A             &kp R &kp S     &kp T    &kp D           &kp H        &kp N            &kp E     &kp I   &kp O          
-                &bm LSHFT Z       &kp X &kp C     &kp V    &kp B           &kp K        &kp M            &kp COMMA &kp DOT &bm RSHFT FSLH 
-                &td_multi_windows &none &kp LCTRL &kp LALT &sm LCTRL SPACE &lt CODE TAB &lt NUMBER ENTER &none     &none   &none          
+                &kp Q               &kp W           &kp E       &kp R           &kp T       &kp Y       &kp U       &kp I       &kp O           &kp P       
+                &kp A               &kp S           &kp D       &kp F           &kp G       &kp H       &kp J       &kp K       &kp L           &kp BSPC
+                &kp RIGHT_SHIFT     &kp Z           &kp X       &kp C           &kp V       &kp B       &kp N       &kp M       &kp COMMA       &kp PERIOD       
+                &kp LCTRL           &kp ESCAPE      &kp LWIN    &kp LEFT_ALT    &kp SPACE   &kp SPACE   &trans      &trans      &trans          &kp KP_ENTER   
             >;
         };
     };
